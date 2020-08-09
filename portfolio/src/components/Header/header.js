@@ -1,7 +1,7 @@
 import React from "react";
 import "./header.css";
 
-function Nav() {
+function Header() {
   return (
     <nav className="navbar is-transparent">
         <span className= "navbar-brand mb-5 h1"> </span>
@@ -18,4 +18,4 @@ function Nav() {
   )}
     
 
-export default Nav;
+export default Header;
