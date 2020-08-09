@@ -1,0 +1,19 @@
+.end{
+    text-align: right;
+    color: lightseagreen;
+    padding: 15px;
+}
+
+.btn-outline-info{
+    font-size: larger;
+    color: lightseagreen;
+    font-family: cursive;
+    border-radius: 10px;
+    padding: 8px;
+    border: none;
+    display: inline;
+}
+
+.one,.two,.three,.four{
+    margin:8px;
+}
