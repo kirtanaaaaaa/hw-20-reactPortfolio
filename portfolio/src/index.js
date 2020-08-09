@@ -7,12 +7,14 @@ import Header from "../src/components/Header/header";
 import Home from "../src/components/Home/home";
 import About from "../src/components/About/about";
 import Footer from "../src/components/Footer/footer";
+import Projects from "../src/components/Projects/projects";
 
 ReactDOM.render(
   <React.StrictMode>
     <Header />
-    <Home></Home>
+    <Home> </Home>
     <About> </About>
+    <Projects> </Projects>
     <Footer></Footer>
   </React.StrictMode>,
   document.getElementById('root')

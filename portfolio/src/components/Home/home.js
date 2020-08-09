@@ -6,7 +6,7 @@ function home(){
     return(
         <div>
             <h1 className="title">A full stack web developer!</h1>
-            <img className = "img" src={sun.png} alt="me"></img>
+            <img className = "img" src={sun} alt="me"></img>
         </div>
     )
 }
