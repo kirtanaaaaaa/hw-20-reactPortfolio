@@ -4,14 +4,16 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 import Header from "../src/components/Header/header";
-import Home from "../src/components/Home/home"
-import About from "../src/components/About/about"
+import Home from "../src/components/Home/home";
+import About from "../src/components/About/about";
+import Footer from "../src/components/Footer/footer";
 
 ReactDOM.render(
   <React.StrictMode>
     <Header />
     <Home></Home>
     <About> </About>
+    <Footer></Footer>
   </React.StrictMode>,
   document.getElementById('root')
 );
