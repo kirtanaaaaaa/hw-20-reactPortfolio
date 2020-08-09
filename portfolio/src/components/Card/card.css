@@ -1,0 +1,43 @@
+.button1{
+    background-color: lightseagreen;
+    font-size: 14px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+    padding: 7px;
+    border: none;
+}
+
+.card{
+    text-align: center;
+    display: inline-block;
+    padding-left: 8%;
+    padding-top: 5%;
+}
+
+.card1{
+    text-align: center;
+    display: inline-block;
+    padding-left: 15%;
+    padding-top: 5%;
+}
+
+.card2{
+    text-align: center;
+    display: inline-block;
+    padding-left: 19%;
+    padding-top: 5%;
+}
+
+.card3{
+    text-align: center;
+    display: inline-block;
+    padding-left: 9%;
+    padding-top: 5%;
+}
+
+.card4{
+    text-align: center;
+    display: inline-block;
+    padding-left: 19%;
+    padding-top: 5%;
+}

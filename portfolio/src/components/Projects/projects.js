@@ -1,9 +1,10 @@
 import React from "react";
+import Card from "../Card/card"
 //import "./projects.css"
 
 function projects (){
     return(
-        <h1>  </h1>
+       <Card></Card>
     )
 };
 
