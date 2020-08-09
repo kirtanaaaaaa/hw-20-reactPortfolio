@@ -15,21 +15,18 @@
 }
 
 .card1{
-    text-align: center;
     display: inline-block;
     padding-left: 15%;
     padding-top: 5%;
 }
 
 .card2{
-    text-align: center;
     display: inline-block;
-    padding-left: 19%;
+    padding-left: 50%;
     padding-top: 5%;
 }
 
 .card3{
-    text-align: center;
     display: inline-block;
     padding-left: 9%;
     padding-top: 5%;
@@ -37,7 +34,6 @@
 }
 
 .card4{
-    text-align: center;
     display: inline-block;
     padding-left: 19%;
     padding-top: 5%;
